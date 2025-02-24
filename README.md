@@ -89,3 +89,10 @@ Final Grade: 3.11/4.0
 - 📱 WhatsApp: [+92 3044088033](tel:+923044088033)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haroon-jamil)
 
+---
+
+## My Resume
+
+You can download my resume [here]([path_to_your_resume.pdf](https://github.com/haroon999/haroon999/blob/main/Haroon_Jamil_25.pdf)).
+
+
