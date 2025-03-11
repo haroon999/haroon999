@@ -40,12 +40,6 @@ Focused on theme and plugin development, MySQL database management, API integrat
 
 ---
 
-## 📈 GitHub Stats
-
-![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroon999&theme=dark&show_icons=true)
-
----
-
 ## 📚 Education
 
 ### Master of Information Technology (MSC-IT) | **University of Sargodha**  
