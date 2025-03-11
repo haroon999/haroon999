@@ -83,7 +83,7 @@ Final Grade: 3.11/4.0
 
 ## 📄 My Resume
 
-You can download my resume  [here](https://github.com/haroon999/haroon999/raw/main/Haroon_Jamil_25.pdf).
+You can download my resume  [here](https://github.com/haroon999/haroon999/blob/main/Haroon_cv_2025.pdf).
 
 
 
