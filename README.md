@@ -13,13 +13,9 @@ I am a passionate **Full Stack WordPress Developer** based in Lahore, Pakistan, 
 
 ## 🛠️ My Professional Journey
 
-### Senior WordPress Developer | **Platinum Communication (PLC)**  
-📅 **02/01/2025 – CURRENT**, Lahore, Pakistan  
+### WordPress Developer | **Platinum Communication (PLC)**  
+📅 **11/01/2024 – 02/28/2025 (Contract-Based)**, Lahore, Pakistan  
 As a Senior WordPress Developer, I focus on designing and customizing websites, emphasizing functionality, database management, and ensuring top-notch performance. I work with teams to implement responsive and high-performance websites using HTML, CSS, JavaScript, and PHP.
-
-### WordPress Developer | **Extraordinary Minds**  
-📅 **21/10/2024 – 01/01/2025**, Lahore, Pakistan  
-Built and customized WordPress websites while ensuring optimal performance, security, and SEO best practices.
 
 ### WordPress Developer | **DevCause**  
 📅 **20/06/2022 – 20/10/2024**, Lahore, Pakistan  
