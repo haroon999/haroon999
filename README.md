@@ -28,6 +28,12 @@ As a Senior WordPress Developer, I focus on designing and customizing websites, 
 Focused on theme and plugin development, MySQL database management, API integrations, troubleshooting, and improving user experience.
 
 ### Freelance Projects
+
+- **Bank Of Ideas**  
+  An Elementor-based website developed with Figma, WordPress, HTML, CSS, JavaScript, WooCommerce, and PHP, aimed at providing cutting-edge laser-based surgical treatments.  
+  [Website](https://bankofideas.org/))
+
+
 - **Austin Laser Solutions**  
   A custom website developed with Figma, WordPress, HTML, CSS, JavaScript, and PHP, aimed at providing cutting-edge laser-based surgical treatments.  
   [Website](https://www.austinlasersolutions.com/)
