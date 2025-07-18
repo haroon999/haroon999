@@ -13,7 +13,7 @@ I am a passionate **Full Stack WordPress Developer** based in Lahore, Pakistan, 
 
 ## 🛠️ My Professional Journey
 
-### WordPress Developer | **National Aerospace Science & Technolgy Park @NASTP**  
+### WordPress Developer | **Compilex Technology**  
 📅 **03/01/2025 – Current**, Lahore, Pakistan  
 As a Senior WordPress Developer, I focus on designing and customizing websites, emphasizing functionality, database management, and ensuring top-notch performance. I work with teams to implement responsive and high-performance websites using HTML, CSS, JavaScript, and PHP.
 
