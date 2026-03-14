@@ -95,4 +95,4 @@ Skilled in programming, software development, and data analysis.
 
 ## 📄 My Resume
 
-You can download my resume [here](https://github.com/haroon999/haroon999/blob/main/CV-2026.pdf).
+You can download my resume [here](https://github.com/haroon999/haroon999/blob/main/haroon_26.pdf).
